@@ -45,3 +45,8 @@
 // }
 
 // console.log(product);
+
+const Lectureroom = {
+    section: B,
+    room: 104,
+}
